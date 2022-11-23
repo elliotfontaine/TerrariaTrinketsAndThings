@@ -23,6 +23,9 @@
     ],
     "client": [
       "net.thelunarian.ttandt.TerrariaTrinketsAndThingsClient"
+    ],
+    "modmenu": [
+      "net.thelunarian.ttandt.config.ModMenuIntegration"
     ]
   },
   "mixins": [
@@ -34,9 +37,10 @@
     "fabric-api": "*",
     "minecraft": "~1.19",
     "java": ">=17",
-    "trinkets": ">=3.4.0"
+    "trinkets": ">=3.4.0",
+    "cloth-config": ">=8.2.88"
   },
   "suggests": {
-    "another-mod": "*"
+    "modmenu": "*"
   }
 }
