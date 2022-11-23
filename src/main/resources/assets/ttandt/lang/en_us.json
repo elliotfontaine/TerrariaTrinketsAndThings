@@ -1,0 +1,18 @@
+{
+    "item.ttandt.magic_mirror": "Magic Mirror",
+
+    "itemGroup.ttandt.ttandt": "Terraria T&T",
+
+    "text.autoconfig.terrariatrinketsandthings.title": "Magic Mirror Options",
+    "text.autoconfig.terrariatrinketsandthings.option.recipe": "Recipe",
+    "text.autoconfig.terrariatrinketsandthings.option.chestLoot": "Chest Loot",
+    "text.autoconfig.terrariatrinketsandthings.option.interdimensional": "Interdimensional",
+    "text.autoconfig.terrariatrinketsandthings.option.xpCost": "XP Cost (in Levels)",
+    "text.autoconfig.terrariatrinketsandthings.option.useTime": "Use Time",
+    "text.autoconfig.terrariatrinketsandthings.option.spawnSet": "Spawn Must be Set",
+    "text.autoconfig.terrariatrinketsandthings.option.cooldown": "Cooldown",
+
+    "terrariatrinketsandthings.xpfail": "§oYou gaze into the cloudy mirror... You don't have enough experience.",
+    "terrariatrinketsandthings.dimfail": "§oYou gaze into the cloudy mirror... You can't travel through dimensions.",
+    "terrariatrinketsandthings.spawnfail": "§oYou gaze into the cloudy mirror... You don't have a personal spawnpoint."
+}
